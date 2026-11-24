@@ -5,6 +5,10 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "dark",
+    "backgroundColor": "#0d0d12",
+    "splash": {
+      "backgroundColor": "#0d0d12"
+    },
     "android": {
       "package": "com.shanto.mystremio",
       "usesCleartextTraffic": true
