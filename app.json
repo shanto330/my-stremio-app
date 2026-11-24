@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "My Stremio",
+    "slug": "my-stremio-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "com.shanto.mystremio",
+      "usesCleartextTraffic": true
+    }
+  }
+}
