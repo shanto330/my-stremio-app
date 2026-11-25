@@ -3,7 +3,7 @@
     "name": "My Stremio",
     "slug": "my-stremio-app",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "default",
     "userInterfaceStyle": "dark",
     "backgroundColor": "#0d0d12",
     "splash": {
